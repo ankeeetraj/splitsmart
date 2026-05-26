@@ -91,7 +91,7 @@ Create a `.env.local` file in the root directory:
 ```env
 DATABASE_URL=your_neon_postgres_connection_string
 NEXTAUTH_SECRET=your_random_secret_key
-NEXTAUTH_URL=http://localhost:3000
+NEXTAUTH_URL=https://splitsmart-rosy.vercel.app/
 GEMINI_API_KEY=your_google_ai_studio_api_key
 ```
 
