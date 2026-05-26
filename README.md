@@ -2,7 +2,7 @@
 
 > Split expenses. Let AI settle the math. Pay instantly via UPI.
 
-![SplitSmart](https://splitsmart-rosy.vercel.app/illustration.png)
+![SplitSmart](https://splitsmart-rosy.vercel.app/landingpage.png)
 
 ## 🔗 Live Demo
 **[splitsmart-rosy.vercel.app](https://splitsmart-rosy.vercel.app)**
