@@ -1,7 +1,7 @@
 'use server'
 
 import { sql } from '@/lib/db'
-import bcrypt from 'bcrypt'
+import bcrypt from 'bcryptjs'
 
 export async function registerUser(formData) {
   const name = formData.get('name')
