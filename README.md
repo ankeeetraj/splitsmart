@@ -127,16 +127,6 @@ splitsmart/
 
 ---
 
-## 📸 Screenshots
-
-### Landing Page
-Clean Positivus-style design with hero section and feature overview.
-
-### Dashboard
-View all your groups with live balance indicators — see at a glance who owes what.
-
-### Settlement Page
-AI-generated plain English summary + settlement cards with UPI QR codes.
 
 ---
 
